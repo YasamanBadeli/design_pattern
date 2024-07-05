@@ -1,2 +1,2 @@
-class Design:
-    def
+class Student:
+    name
